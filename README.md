@@ -1,15 +1,3 @@
-<head>
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
-</head>
-
-<center><b>
-<h1 class="animate__animated animate__flipInX" style="font-size:60px;" >Elizabeth</h1>
-<h2 class="animate__animated animate__lightSpeedInLeft animate__delay-0.5s" style="font-size:30px;" >Full Stack Developer</h2></b>
-</center>
-
 # Hola 👋, Soy Elizabeth
 
 Durante muchos años fui analista de sistemas y líder de proyectos, ahora quiero adentrarme en el mundo del desarrollo.
@@ -37,11 +25,8 @@ Actualmente soy desarrolladora full stack y varios de mis proyectos personales p
 - Armando de nuevos proyectos
 - Armado de mi portfolio web
 
----
 ### 🛠️Tecnologías
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -58,8 +43,7 @@ Actualmente soy desarrolladora full stack y varios de mis proyectos personales p
 ![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
 ...
 
----
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Podés contactarte por:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> Podés contactarte por:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/elicasama)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ecapuzzi/)
